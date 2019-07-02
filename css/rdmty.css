@@ -225,6 +225,12 @@ li:last-child {
 .show-job-colors .blu .bar {
     background-color: #0e3b75;
 }
+.show-job-colors .gnb .bar {
+    background-color: #3B4249;
+}
+.show-job-colors .dnc .bar {
+    background-color: #F15E75;
+}
 .job-icon {
     float: left;
     margin-right: 4px;
